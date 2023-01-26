@@ -1,3 +1,7 @@
-# HSE Self-supervised learning course
+# Курс по Методам предобучения без учителя на ФКН ВШЭ
 
-This repository contains materials from the lessons.
+В этом репозитории хранятся материалы с занятий.
+
+Страница курса: http://wiki.cs.hse.ru/Методы_предобучения_без_учителя_22/23
+
+Записи лекций: https://www.youtube.com/playlist?list=PLEwK9wdS5g0rg9Cf9Tsfeuesv5H6XDdeY
