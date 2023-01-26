@@ -12,12 +12,11 @@ This repository contains materials from the lessons.
 
 # Syllabus
 
-* [Lectures](lectures)
-* [Seminars](seminars)
+[Lectures](lectures), [Seminars](seminars)
 
-1. Introduction to Course, classiacal pretext tasks for SSL. Recordings: [lecture](https://www.youtube.com/watch?v=-9AJ8oVsUYY&list=PLEwK9wdS5g0rg9Cf9Tsfeuesv5H6XDdeY&index=2&t=969s), [seminar](https://www.youtube.com/watch?v=piM7ps5_0RU&list=PLEwK9wdS5g0rg9Cf9Tsfeuesv5H6XDdeY&index=4)
+* __[week1]__ Introduction to Course, classiacal pretext tasks for SSL. Recordings: [lecture](https://www.youtube.com/watch?v=-9AJ8oVsUYY&list=PLEwK9wdS5g0rg9Cf9Tsfeuesv5H6XDdeY&index=2&t=969s), [seminar](https://www.youtube.com/watch?v=piM7ps5_0RU&list=PLEwK9wdS5g0rg9Cf9Tsfeuesv5H6XDdeY&index=4)
 
-2. What to do with a pretrained model? Probing, Linear classifier, Fine-tuning. Recordings: [lecture](https://www.youtube.com/watch?v=ENqUznkInCU&list=PLEwK9wdS5g0rg9Cf9Tsfeuesv5H6XDdeY&index=3), [seminar](https://www.youtube.com/watch?v=3AlD3T1OB1o&list=PLEwK9wdS5g0rg9Cf9Tsfeuesv5H6XDdeY&index=1&t=3s)
+* __[week2]__ What to do with a pretrained model? Probing, Linear classifier, Fine-tuning. Recordings: [lecture](https://www.youtube.com/watch?v=ENqUznkInCU&list=PLEwK9wdS5g0rg9Cf9Tsfeuesv5H6XDdeY&index=3), [seminar](https://www.youtube.com/watch?v=3AlD3T1OB1o&list=PLEwK9wdS5g0rg9Cf9Tsfeuesv5H6XDdeY&index=1&t=3s)
 
 # Homeworks
 
