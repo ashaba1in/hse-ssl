@@ -1,6 +1,6 @@
-# Self-surepvised learning (SSL) course at CS HSE
+# Self-supervised learning (SSL) course at CS HSE
 
-This repository contains materials from the lessons.
+This repository contains materials from the lectures.
 
 # Usefull links
 
@@ -14,9 +14,11 @@ This repository contains materials from the lessons.
 
 [Lectures](lectures), [Seminars](seminars)
 
-* __[week1]__ Introduction to Course, classiacal pretext tasks for SSL. Recordings: [lecture](https://www.youtube.com/watch?v=-9AJ8oVsUYY&list=PLEwK9wdS5g0rg9Cf9Tsfeuesv5H6XDdeY&index=2&t=969s), [seminar](https://www.youtube.com/watch?v=piM7ps5_0RU&list=PLEwK9wdS5g0rg9Cf9Tsfeuesv5H6XDdeY&index=4)
+* __[week1]__ Introduction to Course, classical pretext tasks for SSL. Recordings: [lecture](https://www.youtube.com/watch?v=-9AJ8oVsUYY&list=PLEwK9wdS5g0rg9Cf9Tsfeuesv5H6XDdeY&index=2&t=969s), [seminar](https://www.youtube.com/watch?v=piM7ps5_0RU&list=PLEwK9wdS5g0rg9Cf9Tsfeuesv5H6XDdeY&index=4)
 
 * __[week2]__ What to do with a pretrained model? Probing, Linear classifier, Fine-tuning. Recordings: [lecture](https://www.youtube.com/watch?v=ENqUznkInCU&list=PLEwK9wdS5g0rg9Cf9Tsfeuesv5H6XDdeY&index=3), [seminar](https://www.youtube.com/watch?v=3AlD3T1OB1o&list=PLEwK9wdS5g0rg9Cf9Tsfeuesv5H6XDdeY&index=1&t=3s)
+
+* __[week3]__ Contrastive learning for images. Mutual information, SimCLR, MoCo, BYOL, SimSiam, SwAV. Recordings: [lecture](https://youtu.be/GC9MAyrrN0c), [seminar](https://youtu.be/tb0_Ri3nPhY)
 
 # Homeworks
 
