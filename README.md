@@ -8,7 +8,7 @@ This repository contains materials from the lectures.
 
 * Course page at hse.ru: [link](https://www.hse.ru/ba/ami/courses/646486024.html)
 
-* Lecture recordings on YouTube (in russian): [YouTube](https://www.youtube.com/playlist?list=PLEwK9wdS5g0rg9Cf9Tsfeuesv5H6XDdeY)
+* Lecture recordings on YouTube (in Russian): [YouTube](https://www.youtube.com/playlist?list=PLEwK9wdS5g0rg9Cf9Tsfeuesv5H6XDdeY)
 
 # Syllabus
 
