@@ -12,7 +12,7 @@ This repository contains materials from the lectures.
 
 # Syllabus
 
-[Lectures](lectures), [Seminars](seminars)
+Folders: [Lectures](lectures), [Seminars](seminars)
 
 * __[week1]__ Introduction to Course, classical pretext tasks for SSL. Recordings: [lecture](https://www.youtube.com/watch?v=-9AJ8oVsUYY&list=PLEwK9wdS5g0rg9Cf9Tsfeuesv5H6XDdeY&index=2&t=969s), [seminar](https://www.youtube.com/watch?v=piM7ps5_0RU&list=PLEwK9wdS5g0rg9Cf9Tsfeuesv5H6XDdeY&index=4)
 
@@ -26,7 +26,7 @@ This repository contains materials from the lectures.
 
 * __[week6]__ Model pre-training for the source code domain. code2vec, code2seq, CodeBERT, GraphCodeBERT, CodeT5, Codex. Recordings: [lecture](https://youtu.be/p8YlX1SCaOk)
 
-* __[week7]__ 
+* __[week7]__ Diffusion models for NLP. Theory introduction, Multinomial Diffusion, D3PM, Diffusion-LM, DiffuSeq. Recordings: [lecture](https://youtu.be/ZiI_GBw6oZA), [seminar](https://youtu.be/maRT6YDw0GU)
 
 # Homeworks
 
