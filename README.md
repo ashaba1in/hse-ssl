@@ -20,7 +20,7 @@ Folders: [Lectures](lectures), [Seminars](seminars)
 
 * __[week3]__ Contrastive learning for images. Mutual information, SimCLR, MoCo, BYOL, SimSiam, SwAV. Recordings: [lecture](https://youtu.be/GC9MAyrrN0c), [seminar](https://youtu.be/tb0_Ri3nPhY)
 
-* __[week4]__
+* __[week4]__ Masked Image Modeling. DINO, BEiT, MAE, MaskFeat. Different approaches to improving contrastive learning. Recordings: [lecture](https://youtu.be/SDdZ-Wnwrwo), [seminar](https://youtu.be/Y-BAMOKmerM)
 
 * __[week5]__ Overview of Transformer-based language models. GPT, BERT, XLNet, RoBERTa, ALBERT, MASS, BART, ELECTRA. Recordings: [lecture](https://youtu.be/ZiI_GBw6oZA), [seminar](https://youtu.be/maRT6YDw0GU)
 
@@ -32,7 +32,7 @@ Folders: [Lectures](lectures), [Seminars](seminars)
 
 * __[hw1]__ SSL with pretext tasks. [Task description](https://docs.google.com/document/d/1EbD5fTB3uMYdqxhRj-_CLYpMuEQSJmBcEhFhoRPB9cY/edit?usp=sharing), [Kaggle competition](https://www.kaggle.com/t/bfd2fa2fe3c54ab69722df0b01ba8247)
 * __[hw2]__ Contrastive learning for images. [Task notebook](https://github.com/ashaba1in/hse-ssl/blob/main/homeworks/homework2_contrastive.ipynb)
-* __[hw]__ Pre-training of language models. [Task notebook](https://github.com/ashaba1in/hse-ssl/blob/main/homeworks/homework3_lms/homework3_lms.ipynb)
+* __[hw3]__ Pre-training of language models. [Task notebook](https://github.com/ashaba1in/hse-ssl/blob/main/homeworks/homework3_lms/homework3_lms.ipynb)
 
 # Course staff
 
