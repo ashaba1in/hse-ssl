@@ -30,6 +30,8 @@ Folders: [Lectures](lectures), [Seminars](seminars)
 
 * __[week8]__ Self-supervised learning for audio. Introduction to audio processing. CPC, Wav2Vec 2.0, HUBERT, Multi-format contrastive learning, BYOL-A. Recordings: [lecture](https://youtu.be/aP8SWUj_7Z4)
 
+* __[week9]__ Self-supervised learning for audio. Intro to representation learning on graphs. Review of approaches. Recordings: [lecture](https://youtu.be/xSc6w6Xv8Yk)
+
 # Homeworks
 
 * __[hw1]__ SSL with pretext tasks. [Task description](https://docs.google.com/document/d/1EbD5fTB3uMYdqxhRj-_CLYpMuEQSJmBcEhFhoRPB9cY/edit?usp=sharing), [Kaggle competition](https://www.kaggle.com/t/bfd2fa2fe3c54ab69722df0b01ba8247)
