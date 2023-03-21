@@ -30,7 +30,7 @@ Folders: [Lectures](lectures), [Seminars](seminars)
 
 * __[week8]__ Self-supervised learning for audio. Introduction to audio processing. CPC, Wav2Vec 2.0, HUBERT, Multi-format contrastive learning, BYOL-A. Recordings: [lecture](https://youtu.be/aP8SWUj_7Z4)
 
-* __[week9]__ Self-supervised learning for audio. Intro to representation learning on graphs. Review of approaches. Recordings: [lecture](https://youtu.be/xSc6w6Xv8Yk)
+* __[week9]__ Self-supervised learning for graphs. Intro to representation learning on graphs. Review of approaches. Recordings: [lecture](https://youtu.be/xSc6w6Xv8Yk)
 
 # Homeworks
 
