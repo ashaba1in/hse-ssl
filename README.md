@@ -37,6 +37,7 @@ Folders: [Lectures](lectures), [Seminars](seminars)
 * __[hw1]__ SSL with pretext tasks. [Task description](https://docs.google.com/document/d/1EbD5fTB3uMYdqxhRj-_CLYpMuEQSJmBcEhFhoRPB9cY/edit?usp=sharing), [Kaggle competition](https://www.kaggle.com/t/bfd2fa2fe3c54ab69722df0b01ba8247)
 * __[hw2]__ Contrastive learning for images. [Task notebook](https://github.com/ashaba1in/hse-ssl/blob/main/homeworks/homework2_contrastive.ipynb)
 * __[hw3]__ Pre-training of language models. [Task notebook](https://github.com/ashaba1in/hse-ssl/blob/main/homeworks/homework3_lms/homework3_lms.ipynb)
+* __[hw4]__ Pre-training of audio models. [Task notebook](https://github.com/ashaba1in/hse-ssl/blob/main/homeworks/homework4_audio.ipynb)
 
 # Course staff
 
